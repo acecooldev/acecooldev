@@ -1,7 +1,6 @@
 # Hi, I'm acecool ✏️
 
 *Developer and tech nomad*
-<p align="left"><img src="https://raw.githubusercontent.com/acecooldev/acecooldev/refs/heads/main/A-modified-100px.png" /></p>
 
 # 💻 Tech Stack:
 
