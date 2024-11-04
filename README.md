@@ -1,6 +1,6 @@
 # Hi, I'm acecool ✏️
 
-*Developer and tech nomad*
+*Solo developer and tech buff*
 
 # 💻 Tech Stack:
 
