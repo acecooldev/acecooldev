@@ -42,11 +42,11 @@
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/acecooldev) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acecooldev)
 
 **OR**
 
 ![Ethereum/EVM Chains](https://img.shields.io/badge/ethereum-323232?style=for-the-badge&logo=ethereum&logoColor=white) ![Bitcoin](https://img.shields.io/badge/bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
-
 
 Ethereum: 
 0xa5fcb0D57C66de39A7882e271452ea7a8fdd90A9
